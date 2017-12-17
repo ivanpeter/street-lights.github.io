@@ -305,7 +305,7 @@
     border-radius: 2px 0 0;
 }
 .search__type .dropdown-menu, .search__type.open>a, .search__type>a:hover {
-    background-color: #FDD835;
+    background-color: #0097A7;
 }
 .search__type .dropdown-menu {
     top: 50px;
@@ -1115,12 +1115,12 @@
     color: rgba(255, 255, 255, .8);
 }
 #footer {
-    background-color: #3949AB;
+    background-color: #00695C;
     box-shadow: 0 0 20px rgba(0, 0, 0, .3);
 }
 @media (min-width:768px) {
     #footer {
-    padding-top: 50px;
+    padding-top: 0px;
 }
 }.footer__block a:hover {
     color: #fff;
@@ -1167,7 +1167,7 @@
     position: absolute;
     width: 40px;
     height: 40px;
-    background-color: #FDD835;
+    background-color: #0097A7;
     border-radius: 50%;
     text-align: center;
     line-height: 41px;
@@ -1175,7 +1175,7 @@
     cursor: pointer;
 }
 .footer__to-top:hover {
-    background-color: #FBC02D;
+    background-color: #0091EA;
 }
 .footer__to-top i {
     color: #3e3e3e;
@@ -1767,7 +1767,7 @@
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: #FBC02D;
+    background-color: #0091EA;
     color: #fff;
     font-size: 20px;
     line-height: 50px;
@@ -1775,7 +1775,7 @@
 .submit-ticker {
     color: #fff;
     text-align: center;
-    background: url(../img/patterns/header_pattern_2.png) center left repeat-x #FBC02D;
+    background: url(../img/patterns/header_pattern_2.png) center left repeat-x #0091EA;
 }
 .submit-ticker>p {
     margin: 0;
@@ -1797,7 +1797,7 @@
 }
 .submit-ticker>a:hover {
     background-color: #fff;
-    color: #FBC02D;
+    color: #0091EA;
 }
 a.text-muted:focus, a.text-muted:hover {
     color: #838383;
@@ -1981,7 +1981,7 @@ a.text-muted:focus, a.text-muted:hover {
 #page-loader {
     width: 100%;
     left: 0;
-    background-color: #3F51B5;
+    background-color: #00897B;
     text-align: center;
     position: fixed;
 }
@@ -2316,7 +2316,7 @@ a[href]:after {
     max-width: 900px;
 }
 #header-alt {
-    background-color: #3F51B5;
+    background-color: #00897B;
     box-shadow: 0 1px 4px rgba(0, 0, 0, .3);
     width: 100%;
     z-index: 10;
@@ -2575,7 +2575,7 @@ a[href]:after {
 .main__block-close {
     display: block;
     height: 70px;
-    background: #3F51B5;
+    background: #00897B;
     margin-bottom: 20px;
 }
 .main__block-close, .main__block-close:focus, .main__block-close:hover, .main__block-close>i {
@@ -3620,7 +3620,7 @@ a[href]:after {
     z-index: 1;
 }
 #footer-alt {
-    padding: 25px;
+    padding: 5px;
     text-align: center;
     border-top: 1px solid #eaeaea;
 }
