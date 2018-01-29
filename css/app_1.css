@@ -6740,3 +6740,59 @@ a {
     margin: 0;
     list-style: none;
 }
+
+
+
+/*Genericc Styles*/
+.pd-2{
+    padding:2%;
+}
+.pd-tp-2{
+    padding-top:2%;
+}
+.pd-lf-2{
+    padding-left:2%;
+}
+.pd-rg-2{
+    padding-right:2%;
+}
+.pd-bt-2{
+    padding-bottom:2%
+}
+
+
+/*GENERIC STYLES*/
+
+/*padding*/
+.pd-2{
+    padding:2%;
+}
+.pd-tp-2{
+    padding-top:2%;
+}
+.pd-lf-2{
+    padding-left:2%;
+}
+.pd-rg-2{
+    padding-right:2%;
+}
+.pd-bt-2{
+    padding-bottom:2%
+}
+
+/*margin*/
+.mg-2{
+    padding:2%;
+}
+.mg-tp-2{
+    padding-top:2%;
+}
+.mg-lf-2{
+    padding-left:2%;
+}
+.mg-rg-2{
+    padding-right:2%;
+}
+.mg-bt-2{
+    padding-bottom:2%
+}
